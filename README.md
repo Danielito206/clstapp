@@ -1,7 +1,7 @@
 # clstapp
 
-LES CONNEXIONS (TWITTER ET GOOGLE) NE MARCHENT QU'AVEC ANDROID MAIS PAS LE WEB.
-Mais l'application compile et marche sut toutes les plateformes
+LES CONNEXIONS (TWITTER ET GOOGLE) NE MARCHENT QU'AVEC UN EMULATEUR, MAIS PAS LE WEB.
+Mais l'application compile et marche sur toutes les plateformes
 ## Getting Started
 
 This project is a starting point for a Flutter application.
